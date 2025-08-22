@@ -1,10 +1,12 @@
-📌 Overview  
+##Cryptocurrency-Sentiment-and-Market-Trend-Prediction-Platform
+
+ Overview  
 This project collects data from **Twitter** and **Reddit** to analyze sentiment around **cryptocurrency** and **forex markets**.  
 The goal is to provide **accurate market predictions** by combining real-time social media sentiment with financial trend analysis.  
 
 ---
 
-## 🔧 Tools & Technologies  
+## Tools & Technologies  
 - **Selenium** – Automates browsing for scraping tweets when direct APIs are limited.  
 - **snscrape** – Lightweight scraping tool to fetch tweets based on keywords, hashtags, or accounts.  
 - **PRAW (Python Reddit API Wrapper)** – Fetches posts & comments from Reddit.  
@@ -88,5 +90,3 @@ Pull requests are welcome! Please make sure to open an issue first for discussio
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
